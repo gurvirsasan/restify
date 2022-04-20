@@ -1,4 +1,4 @@
-# Restify Phase 3
+# Restify
 
 This is a Restful Django backend implementation of the restify project. 
 
